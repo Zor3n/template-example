@@ -1,0 +1,5 @@
+.list-column {
+  flex: 57%; 
+  border-radius: 10px;
+  height: fit-content;
+}

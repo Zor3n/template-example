@@ -1,0 +1,8 @@
+.form-column{
+    flex: 37%;
+    height: 100%;
+}
+
+.box-height{
+    height: inherit;
+}

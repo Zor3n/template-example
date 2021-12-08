@@ -1,0 +1,11 @@
+
+.header-layout{
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 40%;
+    border-radius: 10px; 
+    margin-bottom: .5em;
+}

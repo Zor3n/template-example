@@ -1,0 +1,17 @@
+[
+    {
+        "id" : "0",
+        "username" : "Johan",
+        "comment" : "Hello, I am Johan"
+    },
+    {
+        "id" : "1",
+        "username" : "Johana",
+        "comment" : "Hello, I am Johana"
+    },
+    {
+        "id" : "2",
+        "username" : "Alexadra",
+        "comment" : "Hello, I am Alexadra"
+    }
+]

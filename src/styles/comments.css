@@ -1,0 +1,6 @@
+.body-section{
+    border-radius: 10px;
+    height: 60%;
+    margin-bottom: .5em;
+    display: flex;
+}
